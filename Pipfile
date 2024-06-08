@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+llama-index = "*"
+python-dotenv = "*"
+llama-index-readers-web = "*"
+bs4 = "*"
+requests = "*"
+openai = "*"
+pinecone-client = "*"
+llama-index-vector-stores-pinecone = "*"
+llama-index-embeddings-openai = "*"
+black = "*"
+llama-index-readers-file = "*"
+unstructured = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
