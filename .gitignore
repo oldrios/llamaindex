@@ -323,3 +323,4 @@ scripts/documentation-helper/llamaindex-docs/xinference.html
 scripts/documentation-helper/llamaindex-docs/XinferenceLocalDeployment.html
 scripts/documentation-helper/llamaindex-docs/ZepIndexDemo.html
 scripts/llamaindex-helloworld/.env
+scripts/documentation-helper/.env
